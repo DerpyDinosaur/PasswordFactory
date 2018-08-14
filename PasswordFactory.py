@@ -1,5 +1,4 @@
 import hashlib
-import random
 
 # Entry Function
 # def createPassword(password, length):
